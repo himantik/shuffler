@@ -1,6 +1,8 @@
+package com.tlglearningshuffler;
+
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.lang.reflect.Array;
+import com.tlglearningshuffler.Shuffler;
 import java.security.SecureRandom;
 import java.util.Arrays;
 import org.junit.jupiter.api.Test;
